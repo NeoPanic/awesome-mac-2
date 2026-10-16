@@ -58,6 +58,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Yomu](https://www.yomu-reader.com/) ★★★ 🔗 - An independent reader for book lovers (Paid: €7).
 
 
+- [Glim](https://github.com/NeoPanic/Glim) 🔗 - Free, open-source macOS viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 
 # Bookmarks & collection managers
 ### Podium
